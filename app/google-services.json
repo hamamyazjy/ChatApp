@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "997326676378",
+    "firebase_url": "https://mapproject-200715.firebaseio.com",
+    "project_id": "mapproject-200715",
+    "storage_bucket": "mapproject-200715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997326676378:android:fc996494eafb8e8e",
+        "android_client_info": {
+          "package_name": "com.example.hamam.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997326676378-50p5n16vbk4qbskvn5u85rm1dq15mcaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hamam.chatapp",
+            "certificate_hash": "2957f2b1612002edb2d76494f6539374ecd29c7f"
+          }
+        },
+        {
+          "client_id": "997326676378-2kdqb9in61kc90i02qfq5g3hmh1g35gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMECntKwSSgiFfROQIo4n3hERa0BsMnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997326676378-2kdqb9in61kc90i02qfq5g3hmh1g35gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
